@@ -76,7 +76,7 @@
     <dependency>
       <groupId>org.wildfly.swarm</groupId>
       <artifactId>jpa-postgresql</artifactId>
-      <version>1.0.0.Beta8-SNAPSHOT</version>
+      <version>1.0.0.Final-SNAPSHOT</version>
     </dependency>
 
     <dependency>
